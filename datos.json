@@ -1,0 +1,92 @@
+{
+  "bodega": {
+    "nombre": "Bodega Tres Cumbres",
+    "ubicacion": "Valle de Uco, Mendoza, Argentina",
+    "direccion": "",
+    "descripcion": "Bodega boutique familiar en el Valle de Uco, Mendoza. Conocé nuestros vinos y reservá tu visita.",
+    "idioma": "es-AR"
+  },
+  "hero": {
+    "titulo": "La tierra, el tiempo y el vino",
+    "texto": "Una bodega boutique familiar en el Valle de Uco, Mendoza. Vinos hechos al pie de la cordillera, para compartir.",
+    "imagen": "img/portada.jpg"
+  },
+  "identidad": {
+    "destacado": "Al pie de los Andes, el paisaje marca el ritmo: cada hilera, cada estación y cada copa vienen de este lugar.",
+    "titulo": "Una bodega a escala humana",
+    "parrafos": [
+      "Bodega Tres Cumbres es un proyecto familiar en el Valle de Uco. Acá el vino es una excusa para recibir, mostrar el lugar y sentarse a la mesa.",
+      "Te invitamos a recorrer los viñedos, probar nuestros vinos y conocernos."
+    ]
+  },
+  "vinos": {
+    "imagen": "img/botellas-vinos.jpg",
+    "lista": [
+      {
+        "nombre": "Malbec joven",
+        "descripcion": "Un tinto fresco y directo, pensado para disfrutar sin ceremonias.",
+        "provisorio": true
+      },
+      {
+        "nombre": "Blend de guarda",
+        "descripcion": "Un vino para esperar y compartir en las ocasiones que se recuerdan.",
+        "provisorio": true
+      },
+      {
+        "nombre": "Espumante natural",
+        "descripcion": "Burbujas para brindar, a la hora del encuentro.",
+        "provisorio": true
+      }
+    ]
+  },
+  "experiencia": {
+    "titulo": "Vivir la bodega",
+    "texto": "Una visita pensada para ir despacio y conocer el lugar donde nace cada vino.",
+    "imagen": "img/malbec-barricas.jpg",
+    "pasos": [
+      {
+        "titulo": "Recorrido",
+        "texto": "Por la bodega y su entorno."
+      },
+      {
+        "titulo": "Degustación",
+        "texto": "De nuestros vinos."
+      },
+      {
+        "titulo": "Mesa compartida",
+        "texto": "Comida para acompañar."
+      }
+    ],
+    "nota": "Precios, duración, horarios y disponibilidad: consultanos."
+  },
+  "familia": {
+    "titulo": "La familia y la bodega",
+    "texto": "Detrás de cada botella hay personas, una tierra y muchas horas de trabajo. Esta sección va a contar esa historia con palabras de la propia familia.",
+    "imagen": "img/paisaje-familia.jpg",
+    "provisorio": true
+  },
+  "cierre": {
+    "titulo": "Te esperamos en el Valle de Uco",
+    "texto": "Escribinos y coordinamos tu visita.",
+    "imagen": "img/portada.jpg"
+  },
+  "contacto": {
+    "whatsapp": "",
+    "email": "",
+    "instagram": "",
+    "facebook": "",
+    "mensaje": "Hola, quisiera consultar por una visita a Bodega Tres Cumbres."
+  },
+  "colores": {
+    "marfil": "#F3EEE6",
+    "bordo": "#652D38",
+    "tierra": "#A56F50",
+    "verde": "#52634D",
+    "blanco": "#FFFCF7",
+    "tinta": "#2B2420"
+  },
+  "tipografias": {
+    "titulos": "Cormorant Garamond",
+    "texto": "Montserrat"
+  }
+}
